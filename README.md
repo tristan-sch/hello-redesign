@@ -10,7 +10,7 @@ This is my assignment for Module 3 "Design - UI Redesign".
 
 ## Intro
 
-- I decided to do the proposed assignment and red the following [website](http://italia.is/)
+- I decided to do the proposed assignment and redid the [Italia Restaurant's website](http://italia.is/)
 
 - I did 2 pages -> Home + Menu
 
@@ -20,7 +20,7 @@ This is my assignment for Module 3 "Design - UI Redesign".
 
 - Screen 1 is the hero section, very simple with nav bar + full screen image (I would have liked a darker image but did not find one) + headline + arrow to scroll down
 
-- I wanted to reproduce / improve their image with a fire, to get a welcoming feeling by entering the website, same as entering the restaurant. To see it and even smell it right away.
+- I wanted to reproduce and improve their image with a fire, to get a welcoming feeling by entering the website, same as entering the restaurant.
 
 - Screen 2 is only a small description with pictures and a CTA
 
